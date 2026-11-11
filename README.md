@@ -1,5 +1,3 @@
-### Hi there 👋
+👋 Engineer working as a consultant and project manager. I hold a degree in Computer Engineering, and I also write software: here I share small open-source tools.
 
-- 🌱 Graduated in Computer Engineering at the University of Pisa.
-- ⚡ I’m interested in Cybersecurity, Networking and, on the opposite side, the health sector
-- 📫 How to reach me: lorenzoservolini@gmail.com (e-mail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-servolini/)
